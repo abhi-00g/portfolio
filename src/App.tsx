@@ -193,7 +193,7 @@ function LeftColumn({ active }: { active: string }) {
         </p>
         <h1 style={{ fontFamily: "var(--font-display)", fontSize: 38, fontWeight: 700, lineHeight: 1.15, letterSpacing: "-0.025em", marginBottom: 12, maxWidth: 380 }}>
           <span style={{ cursor: "pointer", color: "var(--text)", transition: "opacity 0.2s" }}
-            onClick={() => window.open("https://linkedin.com/in/abhishek-gade", "_blank")}
+            onClick={() => window.open("https://www.linkedin.com/in/venkata-krishna-raj-abhishek-gade-717147230/", "_blank")}
             onMouseEnter={(e) => e.currentTarget.style.opacity = "0.7"}
             onMouseLeave={(e) => e.currentTarget.style.opacity = "1"}>
             Venkata Krishna Raj Abhishek Gade
